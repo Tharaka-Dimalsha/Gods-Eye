@@ -28,3 +28,13 @@ Tasks/Applications to be implemented in upcoming weeks:
 
 Weeks reserved for further testing (integration testing) and/or to catch up on any delays or failures in prior weeks.
 
+## Steps to run the system
+1. First, clone the repository:
+   git clone https://github.com/anushkadhiman/ObjectTracking-DeepSORT-YOLOv3-TF2.git
+2. Install the required python packages:
+   pip install -r ./requirements.txt
+3. Download trained yolov3.weights:
+   wget -P model_data https://pjreddie.com/media/files/yolov3.weights
+4. Run Tracking code:
+   python object_tracker.py
+
