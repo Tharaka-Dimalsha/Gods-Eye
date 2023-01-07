@@ -30,7 +30,7 @@ Weeks reserved for further testing (integration testing) and/or to catch up on a
 
 ## Steps to run the system
 1. First, clone the repository:
-   git clone https://github.com/anushkadhiman/ObjectTracking-DeepSORT-YOLOv3-TF2.git
+   git clone https://github.com/Tharaka-Dimalsha/gods-eye.git
 2. Install the required python packages:
    pip install -r ./requirements.txt
 3. Download trained yolov3.weights:
